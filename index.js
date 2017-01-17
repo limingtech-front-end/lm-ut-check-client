@@ -2,20 +2,20 @@ function isClient(regexp){
 	return regexp.test(navigator.userAgent)
 }
 
-export default {
-	isAndroid(){
+module.exports= {
+	isAndroid:function(){
 		return isClient(/Android/i)
 	},
-	isIos(){
+	isIos:function(){
 		return isClient(/iPhone|iPad|iPod/i)
 	},
-	isBlackBerry(){
+	isBlackBerry:function(){
 		return isClient(/BlackBerry/i)
 	},
-	isWinPhone(){
+	isWinPhone:function(){
 		return isClient(/IEMobile/i)
 	},
-	isWechat(){
+	isWechat:function(){
 		return isClient(/MicroMessenger/i)
 	}
 }

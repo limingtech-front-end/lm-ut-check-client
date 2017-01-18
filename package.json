@@ -20,6 +20,27 @@
         }
       },
       "D:\\Projects\\vsa\\node_modules\\lm-se-client-info"
+    ],
+    [
+      {
+        "raw": "lm-ut-check-client@git+https://github.com/limingtech-front-end/lm-ut-check-client.git",
+        "scope": null,
+        "escapedName": "lm-ut-check-client",
+        "name": "lm-ut-check-client",
+        "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-check-client.git",
+        "spec": "git+https://github.com/limingtech-front-end/lm-ut-check-client.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limingtech-front-end/lm-ut-check-client.git",
+          "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-check-client.git",
+          "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-check-client.git",
+          "gitUrl": "git://github.com/limingtech-front-end/lm-ut-check-client.git",
+          "shortcut": "github:limingtech-front-end/lm-ut-check-client",
+          "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-check-client/master/package.json"
+        }
+      },
+      "D:\\Tests\\nativehybrid\\mail-icar\\node_modules\\lm-se-client-info"
     ]
   ],
   "_from": "git+https://github.com/limingtech-front-end/lm-ut-check-client.git",
@@ -48,11 +69,11 @@
   "_requiredBy": [
     "/lm-se-client-info"
   ],
-  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-check-client.git#a2a3b913189b958e17b15eed70b4958c43554575",
-  "_shasum": "061c26fad03c94c14f7920f73efc11746c17324c",
+  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-check-client.git#f9dce1b6243e57e2b67b10da0efba96227d60993",
+  "_shasum": "2bef792a876d7a33fcc6d899c25dfa4edc20b9f5",
   "_shrinkwrap": null,
   "_spec": "lm-ut-check-client@git+https://github.com/limingtech-front-end/lm-ut-check-client.git",
-  "_where": "D:\\Projects\\vsa\\node_modules\\lm-se-client-info",
+  "_where": "D:\\Tests\\nativehybrid\\mail-icar\\node_modules\\lm-se-client-info",
   "author": {
     "name": "littlstonee",
     "email": "littlstonee@hotmail.com"
